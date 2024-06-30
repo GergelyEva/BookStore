@@ -1,0 +1,15 @@
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\bin\Debug\net8.0\BookStore.Data.Abstraction.deps.json
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\bin\Debug\net8.0\BookStore.Data.Abstraction.dll
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\bin\Debug\net8.0\BookStore.Data.Abstraction.pdb
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.csproj.AssemblyReference.cache
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.AssemblyInfoInputs.cache
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.AssemblyInfo.cs
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStor.0B24BE0B.Up2Date
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.dll
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\refint\BookStore.Data.Abstraction.dll
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\BookStore.Data.Abstraction.pdb
+C:\Users\diacon\Desktop\BookStore\BookStore.Data.Abstraction\obj\Debug\net8.0\ref\BookStore.Data.Abstraction.dll
