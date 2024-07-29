@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BookStore.Data.Abstractions
-{
+{//getter and setter for databasename and connectionstring
   public interface IDatabaseConfiguration
   {
     string ConnectionString { get; set; }

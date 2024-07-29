@@ -33,3 +33,21 @@ C:\Users\HP\Desktop\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.
 C:\Users\HP\Desktop\BookStore\BookStore.Repositories\obj\Debug\net8.0\refint\BookStore.Repositories.dll
 C:\Users\HP\Desktop\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.pdb
 C:\Users\HP\Desktop\BookStore\BookStore.Repositories\obj\Debug\net8.0\ref\BookStore.Repositories.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Repositories.deps.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Repositories.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Repositories.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Data.Abstractions.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.sourcelink.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStor.A4B8AC77.Up2Date
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\refint\BookStore.Repositories.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\BookStore.Repositories.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Repositories\obj\Debug\net8.0\ref\BookStore.Repositories.dll

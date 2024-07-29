@@ -1136,11 +1136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj",
       "projectName": "BookStore.Repositories",
-      "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Repositories\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1162,8 +1162,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Data.Abstractions\\BookStore.Data.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Data.Abstractions\\BookStore.Data.Abstractions.csproj"
+            "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Data.Abstractions\\BookStore.Data.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Data.Abstractions\\BookStore.Data.Abstractions.csproj"
             }
           }
         }

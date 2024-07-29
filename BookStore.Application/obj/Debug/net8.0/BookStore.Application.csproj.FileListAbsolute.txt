@@ -37,3 +37,23 @@ C:\Users\HP\Desktop\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.A
 C:\Users\HP\Desktop\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
 C:\Users\HP\Desktop\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
 C:\Users\HP\Desktop\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Repositories.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Repositories.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\bin\Debug\net8.0\BookStore.Data.Abstractions.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.sourcelink.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStor.D70AE061.Up2Date
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll

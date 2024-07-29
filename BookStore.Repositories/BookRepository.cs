@@ -3,7 +3,7 @@ using BookStore.Domain;
 using MongoDB.Driver;
 
 namespace BookStore.Repositories
-{
+{  //this class implements the IBookRepository
     public class BookRepository : IBookRepository
     {
         private readonly IMongoCollection<Book> books;

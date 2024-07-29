@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJPvxhRIuv0=",
+  "dgSpecHash": "30ay5b6bLHY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Tests\\BookStore.Tests.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Tests\\BookStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

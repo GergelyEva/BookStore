@@ -29,3 +29,19 @@ C:\Users\HP\Desktop\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookS
 C:\Users\HP\Desktop\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\refint\BookStore.Data.Abstractions.dll
 C:\Users\HP\Desktop\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.pdb
 C:\Users\HP\Desktop\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\ref\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\bin\Debug\net8.0\BookStore.Data.Abstractions.deps.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\bin\Debug\net8.0\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\bin\Debug\net8.0\BookStore.Data.Abstractions.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.sourcelink.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStor.3D18F4B5.Up2Date
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\refint\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\BookStore.Data.Abstractions.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.Abstractions\obj\Debug\net8.0\ref\BookStore.Data.Abstractions.dll

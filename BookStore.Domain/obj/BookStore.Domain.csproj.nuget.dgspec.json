@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
         "projectName": "BookStore.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

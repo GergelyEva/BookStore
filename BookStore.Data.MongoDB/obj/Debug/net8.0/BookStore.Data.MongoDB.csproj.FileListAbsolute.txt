@@ -33,3 +33,21 @@ C:\Users\HP\Desktop\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.
 C:\Users\HP\Desktop\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\refint\BookStore.Data.MongoDB.dll
 C:\Users\HP\Desktop\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.pdb
 C:\Users\HP\Desktop\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\ref\BookStore.Data.MongoDB.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Data.MongoDB.deps.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Data.MongoDB.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Data.MongoDB.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Data.Abstractions.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Data.Abstractions.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.sourcelink.json
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStor.E99003B6.Up2Date
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\refint\BookStore.Data.MongoDB.dll
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\BookStore.Data.MongoDB.pdb
+C:\Users\HP\Desktop\Practica 2024\BookStore\BookStore.Data.MongoDB\obj\Debug\net8.0\ref\BookStore.Data.MongoDB.dll

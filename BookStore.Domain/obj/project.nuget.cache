@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ik2kMvXSjqY=",
+  "dgSpecHash": "V9+aTv4Cbaw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",

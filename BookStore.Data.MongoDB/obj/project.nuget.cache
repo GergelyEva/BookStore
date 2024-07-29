@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hq2xl0zAi5s=",
+  "dgSpecHash": "G1FykhdxGn4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Data.MongoDB\\BookStore.Data.MongoDB.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Data.MongoDB\\BookStore.Data.MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

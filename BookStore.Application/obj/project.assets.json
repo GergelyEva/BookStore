@@ -1306,11 +1306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
       "projectName": "BookStore.Application",
-      "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Application\\BookStore.Application.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Application\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1332,11 +1332,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj"
+            "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Domain\\BookStore.Domain.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj"
+            "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\Practica 2024\\BookStore\\BookStore.Repositories\\BookStore.Repositories.csproj"
             }
           }
         }
